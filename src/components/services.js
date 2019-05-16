@@ -3,7 +3,7 @@ import { FaCocktail, FaHiking, FaShuttleVan, FaBeer } from "react-icons/fa";
 import Title from "./title";
 
 function Services() {
-  const [info, setInfo] = useState({
+  const [info] = useState({
     services: [
       {
         icon: <FaCocktail />,
@@ -31,8 +31,7 @@ function Services() {
       }
     ]
   });
-
-  return (
+return (
     <section className="services">
       <Title title="services" />
       <div className="services-center">
@@ -49,5 +48,4 @@ function Services() {
     </section>
   );
 }
-
 export default Services;

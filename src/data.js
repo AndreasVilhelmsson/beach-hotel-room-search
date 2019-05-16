@@ -2,7 +2,7 @@ import room1 from "./images/details-1.jpeg";
 import room2 from "./images/details-2.jpeg";
 import room3 from "./images/details-3.jpeg";
 import room4 from "./images/details-4.jpeg";
-import img1 from "./images/room-1.jpeg";
+import img1 from "./images/room-1.png";
 import img2 from "./images/room-2.jpeg";
 import img3 from "./images/room-3.jpeg";
 import img4 from "./images/room-4.jpeg";
@@ -145,7 +145,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Layout - Separat vardagsrum InternetGratis wifi Underhållning - 32-tums LCD-tv med kabelkanaler, betalfilmer, dvd-spelare Mat och dryck - Kylskåp, minibar, mikrovågsugn och vattenkokare Sov gott - Egyptiska bomullslakan och uppbäddningsservice Badrum - Privat badrum med separat badkar och dusch, badrockar samt tofflor Praktiskt - Telefon, värdeförvaringsskåp och skrivbord; tillgång till gratis spjälsängar och extrasängar vid förfrågan Komfort - Luftkonditionering och daglig städning Tillgänglighetsanpassning: handikappanpassat Rökare/icke rökare Rum i anslutning till varandra kan fås vid efterfrågan i mån av tillgång",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -202,7 +202,7 @@ export default [
       breakfast: true,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Layout - Separat vardagsrum InternetGratis wifi Underhållning - 32-tums LCD-tv med kabelkanaler, betalfilmer, dvd-spelare Mat och dryck - Kylskåp, minibar, mikrovågsugn och vattenkokare Sov gott - Egyptiska bomullslakan och uppbäddningsservice Badrum - Privat badrum med separat badkar och dusch, badrockar samt tofflor Praktiskt - Telefon, värdeförvaringsskåp och skrivbord; tillgång till gratis spjälsängar och extrasängar vid förfrågan Komfort - Luftkonditionering och daglig städning Tillgänglighetsanpassning: handikappanpassat Rökare/icke rökare Rum i anslutning till varandra kan fås vid efterfrågan i mån av tillgång",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -430,7 +430,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Spend your days in one of the most thoughtfully designed rooms. Spacious interiors, private outdoor bathrooms, and stunning views of the Indian Ocean create the quintessential Maldives getaway. Spanning out for 2 floors, with 2 rooms on each floor â€“ these airy rooms offer panoramic ocean views and glimpses of the manicured gardens. The airy atmosphere extends into the open air bathroom with twin vanities and a bathtu",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -544,7 +544,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Overseeing our swimming pool, the Grand Deluxe Rooms provide a private balcony for a refreshing time. Blending modern design with touches of comfort, our rooms have free WiFi, 32-inch LCD TVs, DVD players, and writing desks.The spacious bathrooms feature separate bathtubs and rain showers, hairdryers and upgraded bathroom amenities.",
       extras: [
         "Plush pillows and breathable bed linens",
         "Soft, oversized bath towels",
@@ -608,7 +608,7 @@ export default [
         "Full-sized, pH-balanced toiletries",
         "Complimentary refreshments",
         "Adequate safety/security",
-        "Internet",
+        "WiFi,",
         "Comfortable beds"
       ],
       images: [

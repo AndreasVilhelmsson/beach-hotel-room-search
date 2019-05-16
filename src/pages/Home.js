@@ -9,9 +9,12 @@ const Home = () => {
   return (
     <>
       <Hero hero="defaultHero">
-        <Banner title="luxurious rooms" subtitle="deluxe rooms starting at 299">
+        <Banner
+          title="luxurious rooms"
+          subtitle="deluxe rooms starting at 299$"
+        >
           <Link to="/rooms" className="btn-primary">
-            our rooms
+            Our rooms
           </Link>
         </Banner>
       </Hero>
