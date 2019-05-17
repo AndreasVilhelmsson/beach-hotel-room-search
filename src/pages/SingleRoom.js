@@ -57,7 +57,7 @@ class SingleRoom extends Component {
         <section className="single-room">
           <div className="single-room-images">
             {defaultImg.map((image, index) => {
-              return <img src={image} key={index} />;
+              return <img src={image} key={index} alt="no room"/>;
             })}
           </div>
           <div className="single-room-info">

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 //import items from "./data";
-import Client from "./contentful";
+import client from "./contentful";
 
 const RoomContext = React.createContext();
 
@@ -23,7 +23,7 @@ class RoomProvider extends Component {
   //getData
   getData = async () => {
     try {
-      let response = await Client.getEntries({
+      let response = await client.getEntries({
         content_type: "BeachResortRoom",
         order: "-fields.price"
       });
@@ -88,8 +88,7 @@ class RoomProvider extends Component {
       maxSize,
       breakfast,
       pets,
-      price,
-      size
+      price
     } = this.state;
 
     // all the rooms
@@ -97,7 +96,7 @@ class RoomProvider extends Component {
     // transform value from string to number
     capacity = parseInt(capacity);
     price = parseInt(price);
-    size = parseInt(size);
+    
 
     // filter by type of room
     if (type !== "all") {

@@ -13,7 +13,6 @@ const RoomFilter = ({ room }) => {
   const context = useContext(RoomContext);
   const {
     handleChangeHandler,
-    loading,
     type,
     capacity,
     price,
