@@ -9,17 +9,16 @@ This is a mini project filter out data using react and contentful
 
 Go and test it out [Here](http://mushy-believe.surge.sh)
 
-
-
 #### Technologies
 * React
 * Contentful
 * Styled Components
+
 ### Set up the project
 Install create-react-app, 
-Clone this repo by coping the url and in the terminal type: git clone [paste the url]
+Clone this repo by coping the url and in the terminal type: git clone **git clone [paste the url]**
 cd to the project and type: npm install
-To start the project run: npm start
+To start the project run: **npm install**
 In the browser go to localhost:3000
 
 Enjoy!
