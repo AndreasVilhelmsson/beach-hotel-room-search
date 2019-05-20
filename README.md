@@ -1,6 +1,6 @@
 ## Beach-hotel-room-search
 <hr>
-### search and filter out example
+## search and filter out example
 Name: [Andreas Vilhelmsson](linkedin.com/in/andreas-vilhelmssson)
 
 Education: JavaScript Developer at Jensen Education
