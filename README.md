@@ -1,15 +1,9 @@
 ## Hotel-room-search
-
-### search and filter out example
-Name: [Andreas Vilhelmsson](linkedin.com/in/andreas-vilhelmssson)
-
-Education: JavaScript Developer at Jensen Education
-
-This is a mini project filter out data using react and contentful
+This is a mini project about how to filter out data using React and Contentful.
 
 Go and test it out [Here](http://mushy-believe.surge.sh)
 
-#### Technologies
+### Technologies
 * React
 * Contentful
 * Styled Components
@@ -22,3 +16,5 @@ To start the project run: **npm start**
 In the browser go to localhost:3000
 
 Enjoy!
+
+Andreas Vilhelmsson
