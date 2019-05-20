@@ -1,5 +1,5 @@
 ## Beach-hotel-room-search
-
+<hr>
 ### search and filter out example
 Name: [Andreas Vilhelmsson](linkedin.com/in/andreas-vilhelmssson)
 
@@ -15,8 +15,8 @@ Go and test it out [Here](http://mushy-believe.surge.sh)
 * Styled Components
 
 ### Set up the project
-Install create-react-app, 
-Clone this repo by coping the url and in the terminal type: git clone **git clone [paste the url]**
+Install **create-react-app**, 
+Clone this repo by coping the url and in the terminal type: **git clone [paste the url]**
 cd to the project and type: npm install
 To start the project run: **npm install**
 In the browser go to localhost:3000
