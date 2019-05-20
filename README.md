@@ -17,8 +17,8 @@ Go and test it out [Here](http://mushy-believe.surge.sh)
 ### Set up the project
 Install **create-react-app**, 
 Clone this repo by coping the url and in the terminal type: **git clone [paste the url]**
-cd to the project and type: npm install
-To start the project run: **npm install**
+cd to the project and type: **npm install**
+To start the project run: **npm start**
 In the browser go to localhost:3000
 
 Enjoy!
