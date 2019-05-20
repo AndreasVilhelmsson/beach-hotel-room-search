@@ -1,16 +1,25 @@
-This is a small react project done with create-react-app. 
+## Beach-hotel-room-search
 
-## Available Scripts
+### search and filter out example
+Name: [Andreas Vilhelmsson](linkedin.com/in/andreas-vilhelmssson)
 
-To run this project you can run:
+Education: JavaScript Developer at Jensen Education
 
-### `npm install`
-### `npm start`
+This is a mini project filter out data using react and contentful
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Go and test it out [Here](http://mushy-believe.surge.sh)
 
-you can check the project in http://mushy-believe.surge.sh/ to see what it looks like
- 
- happy coding :-)
 
+
+### Technologies
+React
+Contentful
+Styled Components
+### Set up the project
+Install Meteor, Click here
+Clone this repo by coping the url and in the terminal type: git clone [paste the url]
+cd to the project and type: npm install
+To start the project run: meteor
+In the browser go to localhost:3000
+
+Enjoy!
